@@ -1,0 +1,28 @@
+<CoordinateSystem> { Y-Up }
+
+<Comment> {
+  "maya2egg6 -a chan -o models/anim0.egg mayaModels/brick0.mb"
+}
+<Table> {
+  <Bundle> brick0 {
+    <Table> "<skeleton>" {
+      <Table> chBox {
+        <Xfm$Anim_S$> xform {
+          <Scalar> fps { 15 }
+          <Char*> order { srpht }
+          <S$Anim> h {
+            <V> {
+              0 6.48105 13.0321 19.6006 26.1341 32.5802 38.8863 45
+              50.8711 56.5313 62.0508 67.5 72.9492 78.4687 84.1289 90
+              96.1662 102.595 109.181 115.819 122.405 128.834 135
+              140.912 146.672 152.314 157.875 163.389 168.891 174.416
+              180
+            }
+          }
+        }
+      }
+    }
+    <Table> morph {
+    }
+  }
+}

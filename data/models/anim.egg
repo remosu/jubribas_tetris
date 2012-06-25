@@ -1,0 +1,28 @@
+<CoordinateSystem> { Y-Up }
+
+<Comment> {
+  "maya2egg6 -a chan -o data/models/anim.egg data/mayaModels/brick.mb"
+}
+<Table> {
+  <Bundle> brick {
+    <Table> "<skeleton>" {
+      <Table> pCube1 {
+        <Xfm$Anim_S$> xform {
+          <Scalar> fps { 15 }
+          <Char*> order { srpht }
+          <S$Anim> i { <V> { 5 } }
+          <S$Anim> j { <V> { 5 } }
+          <S$Anim> k { <V> { 5 } }
+          <S$Anim> y {
+            <V> {
+              2.5 2.90279 2.98056 3 2.98015 2.9017 2.5 2.90279 2.98056 3
+              2.98015 2.9017 2.5 2.90279 2.98056 3
+            }
+          }
+        }
+      }
+    }
+    <Table> morph {
+    }
+  }
+}
