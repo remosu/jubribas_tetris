@@ -4,6 +4,6 @@ Jubriba's Tetris
 ================
 
 
-.. image:: jubribaTet.png
+.. image:: imgs/jubribaTet.png
     :scale: 50%
     :align: center
