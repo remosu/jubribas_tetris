@@ -4,7 +4,7 @@ Jubriba's Tetris
 ================
 
 
-.. image:: http://farm8.staticflickr.com/7113/7443568368_73c424dac8_d.jpg
+.. image:: https://raw.githubusercontent.com/remosu/jubribas_tetris/master/imgs/jubribaTet.png
     :scale: 50%
     :align: center
 
